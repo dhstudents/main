@@ -1,6 +1,8 @@
 ---
 # main repo list
 ---
+# [Customer Browser part 2](https://github.com/dhstudents/CustomerBrowser-part2)
+
 # [Customer Browser part 1](https://github.com/dhstudents/CustomerBrowser-part1)
 
 # [Advanced JavaScript Lesson 51](https://github.com/dhstudents/Lesson51-adv-js)
